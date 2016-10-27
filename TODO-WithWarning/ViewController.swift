@@ -20,6 +20,19 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+}
 
+extension ViewController {
+    //TODO: Connect to the actual API when it is ready.
+    func requestSomething() {
+        
+    }
+}
+
+extension ViewController {
+    //FIXME: Bug naja
+    func functionWithBug() {
+        
+    }
 }
 
